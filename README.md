@@ -1,5 +1,13 @@
-# PokerAnalyzer
-Free Poker Hand Analysis Tool
+# PokerAnalyzer – Free Poker Hand Analyzer for Windows
+
+**Free Poker Analysis Software | AI-Powered Poker Hand Analysis | Google Gemini**
+
+PokerAnalyzer is a free poker hand analysis application for Windows. Study your poker hands, review your decisions, analyze hand histories and receive AI-powered recommendations using Google Gemini.
+
+Looking for a free poker analyzer or an alternative to expensive poker analysis software? PokerAnalyzer makes poker study more accessible with free tools and AI-powered analysis.
+
+**100% Free – No Paid Licenses – No Mandatory Subscriptions.**
+
 # ♠️ PokerAnalyzer
 
 **Free Poker Hand Analysis Tool | Herramienta gratuita de análisis de manos de póker**
